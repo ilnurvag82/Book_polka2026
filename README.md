@@ -38,8 +38,8 @@
 
 ## Технологический стек:
 
-Backend: Spring Boot 3, Spring Security, JPA/Hibernate
-База данных: PostgreSQL
-Аутентификация: JWT
-Документация: OpenAPI/Swagger
-Сборка: Maven
+* Backend: Spring Boot 3, Spring Security, JPA/Hibernate
+* База данных: PostgreSQL
+* Аутентификация: JWT
+* Документация: OpenAPI/Swagger
+* Сборка: Maven
